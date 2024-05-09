@@ -28,3 +28,4 @@ C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\Firs
 C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\First ASP.NET Core Website\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\First ASP.NET Core Website\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\First ASP.NET Core Website\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\wjssa\OneDrive\Local Repositories\School\.NET Software Development\First ASP.NET Core Website\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
